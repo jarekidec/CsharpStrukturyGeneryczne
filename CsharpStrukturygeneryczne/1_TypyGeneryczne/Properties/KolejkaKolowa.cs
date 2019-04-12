@@ -1,4 +1,4 @@
-﻿namespace _1_TypyGeneryczne.Properties
+﻿namespace _1_TypyGeneryczne
 {
     public class KolejkaKolowa
     {
